@@ -1,4 +1,4 @@
-# Hi there, I'm Spoorthi Mahesh Bhat 👋
+# Hi there, I'm Spoorthi 👋
 
 ## About Me
 
