@@ -1,27 +1,162 @@
-# Hi, I'm Spoorthi 👋
+# Hi there, I'm Spoorthi Mahesh Bhat 👋
 
-Quality Engineer with 5 years of experience in software testing and quality assurance.
+## About Me
 
-Currently focused on:
+Quality Assurance Analyst with 4.5+ years of experience delivering high-quality software across BFSI and HRIS domains.
+
+Experienced in:
+
+- Agile methodologies
+- Requirement analysis
+- Stakeholder collaboration
+- User Acceptance Testing (UAT)
+- Regression Testing
+- Data Validation
+- Defect Management
+
+Currently expanding my expertise in:
 
 - Python Development
 - Test Automation
 - Software Quality Engineering
-- Building real-world projects
-- Continuous learning
+- AI Assurance
+- Automation-Driven Solutions
 
-## Current Learning Journey
+My goal is to bridge the gap between quality engineering, automation, and AI systems while continuously building practical, real-world projects.
 
-- Python Fundamentals ✅
-- Intermediate Python 🔄
-- Automation Engineering 🔄
-- Project Development 🔄
+---
 
-## Find Mini Projects in
+## Current Focus Areas
 
-Python Learning Repository - contains lesson wise application of Python Concepts and problem solving
+🌱 Learning Python through project-based development
 
+🤖 Exploring Test Automation and AI Assurance
 
-## Connect
+📊 Strengthening software engineering fundamentals
 
-LinkedIn: https://www.linkedin.com/in/spoorthi-m-4b50a326a
+⚡ Building mini-projects to improve problem-solving skills
+
+🔍 Learning clean coding and software development best practices
+
+---
+
+## Tech Stack
+
+### Quality Assurance
+
+- Manual Testing
+- Regression Testing
+- User Acceptance Testing (UAT)
+- Defect Tracking
+- Test Planning
+- Test Case Design
+- Data Validation
+
+### Programming
+
+- Python (Learning & Building Projects)
+- SQL
+
+### Tools
+
+- Jira
+- Azure DevOps
+- Git
+- GitHub
+- Postman
+
+### Methodologies
+
+- Agile
+- Scrum
+- SDLC
+- STLC
+
+---
+
+## Featured Repositories
+
+### Python Mini Projects
+
+Hands-on Python projects built while learning Python fundamentals and intermediate concepts.
+
+Topics covered:
+
+- Data Structures
+- Functions
+- File Handling
+- Object-Oriented Programming
+- Automation
+- Problem Solving
+
+Repository:
+
+➡️ https://github.com/spoorthimaheshbhat/python_mini_projects
+
+---
+
+## Learning Roadmap
+
+### Python Fundamentals
+
+- [x] Variables
+- [x] Data Types
+- [x] Strings
+- [x] Lists
+- [x] Tuples
+- [x] Sets
+- [x] Dictionaries
+- [x] Functions
+- [x] Loops
+- [x] File Handling
+
+### Intermediate Python
+
+- [ ] Object-Oriented Programming
+- [ ] JSON
+- [ ] Modules & Packages
+- [ ] Exception Handling
+- [ ] Decorators
+- [ ] Generators
+
+### Automation & QA
+
+- [ ] Pytest
+- [ ] API Testing Automation
+- [ ] Selenium
+- [ ] Playwright
+- [ ] CI/CD Integration
+
+### AI Assurance
+
+- [ ] LLM Testing
+- [ ] AI Evaluation Frameworks
+- [ ] Prompt Testing
+- [ ] Model Validation
+- [ ] Responsible AI Practices
+
+---
+
+## GitHub Goals for 2026
+
+- Build 50+ Python mini-projects
+- Create a strong automation portfolio
+- Contribute to open-source projects
+- Develop AI Assurance expertise
+- Share learning consistently through GitHub
+
+---
+
+## Let's Connect
+
+### LinkedIn
+
+www.linkedin.com/in/spoorthimaheshbhat
+
+### GitHub
+
+https://github.com/spoorthimaheshbhat
+
+---
+
+> "Learning by building, improving through practice, and growing one project at a time."
