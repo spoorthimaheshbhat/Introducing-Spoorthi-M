@@ -28,15 +28,15 @@ My goal is to bridge the gap between quality engineering, automation, and AI sys
 
 ## Current Focus Areas
 
-🌱 Learning Python through project-based development
+- Learning Python through project-based development
 
-🤖 Exploring Test Automation and AI Assurance
+- Exploring Test Automation and AI Assurance
 
-📊 Strengthening software engineering fundamentals
+- Strengthening software engineering fundamentals
 
-⚡ Building mini-projects to improve problem-solving skills
+- Building mini-projects to improve problem-solving skills
 
-🔍 Learning clean coding and software development best practices
+- Learning clean coding and software development best practices
 
 ---
 
