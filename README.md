@@ -95,48 +95,6 @@ Repository:
 
 ---
 
-## Learning Roadmap
-
-### Python Fundamentals
-
-- [x] Variables
-- [x] Data Types
-- [x] Strings
-- [x] Lists
-- [x] Tuples
-- [x] Sets
-- [x] Dictionaries
-- [x] Functions
-- [x] Loops
-- [x] File Handling
-
-### Intermediate Python
-
-- [ ] Object-Oriented Programming
-- [ ] JSON
-- [ ] Modules & Packages
-- [ ] Exception Handling
-- [ ] Decorators
-- [ ] Generators
-
-### Automation & QA
-
-- [ ] Pytest
-- [ ] API Testing Automation
-- [ ] Selenium
-- [ ] Playwright
-- [ ] CI/CD Integration
-
-### AI Assurance
-
-- [ ] LLM Testing
-- [ ] AI Evaluation Frameworks
-- [ ] Prompt Testing
-- [ ] Model Validation
-- [ ] Responsible AI Practices
-
----
-
 ## GitHub Goals for 2026
 
 - Build 50+ Python mini-projects
